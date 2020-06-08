@@ -1,6 +1,6 @@
 {
   "name": "@wana/test-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Testing helpers for wana",
   "author": "Alec Larson",
   "license": "MIT",
