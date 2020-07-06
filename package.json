@@ -19,7 +19,7 @@
     "prettier": "^1.19.1",
     "react": "^16.12.0",
     "typescript": "^3.7.2",
-    "wana": "^0.12.0"
+    "wana": "*"
   },
   "peerDependencies": {
     "react": "*",
